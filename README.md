@@ -19,7 +19,4 @@ lengths.
 - SciPy  
 - Matplotlib  
 
-Install requirements with:
-```bash
-pip install -r requirements.txt
 
